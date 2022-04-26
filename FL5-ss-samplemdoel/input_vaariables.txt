@@ -1,0 +1,29 @@
+% for input variables content:
+% use for MATLAB
+% script: model_main.m
+
+
+% Model Variables Content:
+m:8.72kg
+q:980Pa
+s:0.294m^2
+c:0.245m
+Io:0.5935kgm^2
+U:40.00ms^-1
+g:9.81ms^-2
+
+
+% Aerodynamic Coefficient:
+kw:4.900
+clad:0.0396
+cla:5.5498
+clq:0.1482
+clt:0.3688
+cl0:0.2632
+
+
+cmad:-0.0899
+cma:-0.2646
+cmq:-0.2429
+cmt:-0.9170
+cm0:0.0896
